@@ -1,0 +1,436 @@
+<resources>
+    <string name="app_name">CSE,E-57</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sabujN_details"> Sabuj Kumar Roy(1) </string>
+    <string name="sabujCO_details"> +8801737924135</string>
+    <string name="sabuj_details">
+        E-mail: sabujroy566@gmail.com
+        \nHome District: Sirajganj. </string>
+    <string name="sabujFB_details"> www.facebook.com/skr.sabuj </string>
+
+    <string name="hiraN_details">Hira Harsha(4)</string>
+    <string name="hiraCO_details"> +8801796286654 </string>
+    <string name="hira_details">
+        E-mail: hiradd7@gmail.com
+        \nHome District: Patuakhali. </string>
+    <string name="hiraFB_details"> www.facebook.com/hira.harsha </string>
+
+    <string name="rezaN_details">Kazi Rezaul Karim(5)</string>
+    <string name="rezaCO_details"> +8801628267644 </string>
+    <string name="reza_details">
+        E-mail: rezaul3942@gmail.com
+        \nHome District: Comilla.</string>
+    <string name="rezaFB_details"> www.facebook.com/profile.php?id=100007948334702 </string>
+
+    <string name="tuhinN"> Arifur Tuhin(6)</string>
+    <string name="tuhinCo"> +8801750980304 </string>
+    <string name="tuhin">
+        E-mail:
+        \nHome District: Pabna.</string>
+    <string name="tuhinFB">www.facebook.com/Arifur.Tuhin007</string>
+
+    <string name="shehabN">Shehab Ahmed(7)</string>
+    <string name="shehabCO"> +8801628267644 </string>
+    <string name="shehab">
+        E-mail: shehab528576@gmail.com
+        \nHome District: Rajshahi </string>
+    <string name="shehabFB"> www.facebook.com/shehabahmed143 </string>
+
+    <string name="mehedi9N"> MD. Mehedi Hasan(9)</string>
+    <string name="mehedi9CO"> +8801768311590 </string>
+    <string name="mehedi9">
+        E-mail: mehediallo240@gmail.com
+        \nHome District: Bogra. </string>
+    <string name="mehedi9FB"> www.facebook.com/mehedi.allo.3 </string>
+
+    <string name="jahingirN">Jahangir Alam(10)</string>
+    <string name="jahangirCO"> +8801611295914 </string>
+    <string name="jahingir">
+        E-mail: jahangiralamcs@gmail.com
+        \nHome District: Netrokona  </string>
+    <string name="jahangirFB"> www.facebook.com/jahangiralamcs </string>
+
+    <string name="milonN">S M Melon Ahmad(11)</string>
+    <string name="milonCO">+8801744558766</string>
+    <string name="milon">
+         E-mail: mmrahat5@gmail.com
+        \nHome District: Pabna. </string>
+    <string name="milonFB">https://www.facebook.com/smmelo66</string>
+
+    <string name="ratulN">RomBadsha(Ratul)(13)</string>
+    <string name="ratulCO">+8801621117420</string>
+    <string name="ratul">
+        E-mail: ratulsarker89@gmail.com
+        \nHome District: Bogra. </string>
+    <string name="ratulFB">www.facebook.com/ratulsarker89</string>
+
+    <string name="sunmoonN">Sunmoon Khondokar(15)</string>
+    <string name="sunmoonCO">+8801795818535</string>
+    <string name="sunmoon">
+        E-mail: sunmoondmpi11@gmail.com
+        \nHome District: Pabna. </string>
+    <string name="sunmoonFB">www.facebook.com/profile.php?id=100007778470003</string>
+
+    <string name="rahatN">MD. Rahat Shahin(18)</string>
+    <string name="rahatCo">+8801740131016</string>
+    <string name="rahat">
+        E-mail: mmrahat5@gmail.com
+        \nHome District: Barisal </string>
+    <string name="rahatFB">www.facebook.com/rahatit</string>
+
+
+    <string name="doliN">Mahajabin Doli(19)</string>
+    <string name="doliCo">+8801830884635</string>
+    <string name="doli">
+        E-mail: web.dakter@gmail.com
+        \nHome District: Brahmanbaria.</string>
+    <string name="doliFB">www.facebook.com/kusha.gera</string>
+
+    <string name="miliN">Mahabuba Rahman Mili(20)</string>
+    <string name="miliCo">+8801772052575</string>
+    <string name="mili">
+        E-mail: mahabubarahman487@gmail.com
+        \nHome District: Narsingdi </string>
+    <string name="miliFB">www.facebook.com/profile.php?id=100005374968412</string>
+
+    <string name="shahriazN">Shahriaz Ahmed(21)</string>
+    <string name="shahriazCo">+8801748510635</string>
+    <string name="shahriaz">
+        E-mail:shahriazahmed22@gmail.com
+        \nHome District: Jamalpur. </string>
+    <string name="shahriazFB">www.facebook.com/shahriazahmed21</string>
+
+    <string name="sanjidaN">Shanzida(22)</string>
+    <string name="sanjidaCo">+8801775859754</string>
+    <string name="sanjida">
+        E-mail: juisanjida1@gmail.com
+        \nHome District: Mymensingh. </string>
+    <string name="sanjidaFB">www.facebook.com/profile.php?id=100008140116274</string>
+
+    <string name="jannatN">Jannatul Ferdus(23)</string>
+    <string name="jannatCo">+880</string>
+    <string name="jannat">
+        E-mail: piupxn@gmail.com
+        \nHome District: Mymensingh. </string>
+    <string name="jannatFB">www.facebook.com/piupxn</string>
+
+    <string name="halimaN">Halima Shreti(24)</string>
+    <string name="halimaCo">+8801753637989</string>
+    <string name="halima">
+        E-mail: halimashreti@gmail.com
+        \nHome District: Mymensingh. </string>
+    <string name="halimaFB">www.facebook.com/profile.php?id=100008478935583</string>
+
+    <string name="rumaN">Ruma Akther(25)</string>
+    <string name="rumaCo">+8801740314294</string>
+    <string name="ruma">
+        E-mail: ruma3764@gmail.com
+        \nHome District: Dinajpur.</string>
+    <string name="rumaFB">www.facebook.com/profile.php?id=100010557343455</string>
+
+    <string name="sufalN">Sufal Kumar Mondol(29)</string>
+    <string name="sufalCo">+8801794908034</string>
+    <string name="sufal">
+        E-mail: sufalussl@gmail.com
+        \nHome District: Naogaon.</string>
+    <string name="sufalFB">www.facebook.com</string>
+
+    <string name="salimN">Salim Hossain (30)</string>
+    <string name="salimCO">+8801740314294</string>
+    <string name="salim">
+        E-mail: salimhossain867@gmail.com
+        \nHome District: Satkhira.</string>
+    <string name="salimFB">www.facebook.com/profile.php?id=100009421550039</string>
+
+    <string name="marmaN">Mayashing Marma(31)</string>
+    <string name="marmaCo">+8801534504173</string>
+    <string name="marma">
+        E-mail: mongshingmarma@gmail.com
+        \nHome District: Bandarban.</string>
+    <string name="marmaFB">www.facebook.com</string>
+
+    <string name="osmanN">Md. Osman Goni(32)</string>
+    <string name="osmanCo">+8801723341628</string>
+    <string name="osman">
+        E-mail: mdosmangoni722@gmail.com
+        \nHome District: Naogaon.</string>
+    <string name="osmanFB">www.facebook.com/osman404144</string>
+
+    <string name="jahidN">Md. Jahid Hasan(33)</string>
+    <string name="jahidCo">+8801795955284</string>
+    <string name="jahid">
+        E-mail: jahid.cse.diu@gmail.com
+        \nHome District: Bogra.</string>
+    <string name="jahidFB">www.facebook.com/profile.php?id=100005703524744</string>
+
+    <string name="mehedi34N">Mehedi Hasan(34)</string>
+    <string name="mehedi34Co">+8801923281343</string>
+    <string name="mehedi34">
+        E-mail: mehedidipu66@gmail.com
+        \nHome District: Jhenaidah </string>
+    <string name="mehedi34FB">www.facebook.com/cottonsnowball</string>
+
+    <string name="sujitN">Sujit Kumar Adhikari(35)</string>
+    <string name="sujitCo">+8801708130384</string>
+    <string name="sujit">
+        E-mail: sujit.cse.bd@gmail.com
+        \nHome District: Jessore</string>
+    <string name="sujitFB">www.facebook.com/sujitadhikaribd?lst=100007288544581%3A100002779317049%3A1539804299</string>
+
+    <string name="habibN">Md. Habibur Rahman(36)</string>
+    <string name="habibCo">+8801934163266</string>
+    <string name="habib">
+        E-mail: habibur.rahman.habib@gmail.com
+        \nHome District: Naogaon.</string>
+    <string name="habibFB">www.facebook.com/habibur000</string>
+
+    <string name="zahirulN">Zahirul Islam(37)</string>
+    <string name="zahirulCo">+8801864144114</string>
+    <string name="zahirul">
+        E-mail: durontozahir@gmail.com
+        \nHome District: Feni.</string>
+    <string name="zahirulFB">www.facebook.com/ZAHIRDURONTO</string>
+
+    <string name="rubelN">Rubel Hasan(38)</string>
+    <string name="rubelCo">+8801913883644</string>
+    <string name="rubel">
+        E-mail: rubelcse18@gmail.com
+        \nHome District: Chapai.</string>
+    <string name="rubelFB">www.facebook.com/Rubel8182</string>
+
+    <string name="tumpaN">Tumpa Akther(41)</string>
+    <string name="tumpaCo">+8801632404492</string>
+    <string name="tumpa">
+        E-mail: tumpacse41@gmail.com
+        \nHome District: Narsingdi.</string>
+    <string name="tumpaFB"></string>
+
+    <string name="lizaN">Liza Akther(42)</string>
+    <string name="lizaCo">+8801689229141</string>
+    <string name="liza">
+        E-mail: afrinliza5258@gmail.com
+        \nHome District: Narsingdi.</string>
+    <string name="lizaFB">www.facebook.com/profile.php?id=100011622705757</string>
+
+    <string name="bishawjitN">Bishawjit Kumar(43)</string>
+    <string name="bishawjitCo">+8801784140632</string>
+    <string name="bishawjit">
+        E-mail: bishawjitkumar104@gmail.com
+        \nHome District: Jhenaidah.</string>
+    <string name="bishawjitFB">www.facebook.com/bishawjit.kumar.77</string>
+
+    <string name="mizanurN">Md. Mizanur Rahman(44)</string>
+    <string name="mizanurCo">+8801722902247</string>
+    <string name="mizanur">
+        E-mail: shuvokst2015@gmail.com
+        \nHome District: Kustia. </string>
+    <string name="mizanurFB">www.facebook.com/shuvo.kothai</string>
+
+    <string name="zihadiN">Abdul Malek Zihadi(45)</string>
+    <string name="zihadiCo">+8801733808120</string>
+    <string name="zihadi">
+        E-mail: zihad8120@gmail.com
+        \nHome District: Jhenaidah. </string>
+    <string name="zihadiFB">www.facebook.com/amzihad.zihadi</string>
+
+    <string name="nziurN">Naziur Rahman (46)</string>
+    <string name="nziurCo">+8801750651966</string>
+    <string name="nziur">
+        E-mail: nishadnaziur@gmail.com
+        \nHome District: Dinajpur. </string>
+    <string name="nziurFB">www.facebook.com/classic.nishad</string>
+
+    <string name="urmiN">Razia Sultana Urmi(47)</string>
+    <string name="urmiCo">+8801951479102</string>
+    <string name="urmi">
+        E-mail: eng.raziasultana@gmail.com
+        \nHome District: Narsingdi.</string>
+    <string name="urmiFB">www.facebook.com/razia908</string>
+
+    <string name="sanarulN">Sanarul Islam(48)</string>
+    <string name="sanarulCo">+8801744544246</string>
+    <string name="sanarul">
+        E-mail: sanarulislam.me@gmail.com
+        \nHome District: Gaibandha. </string>
+    <string name="sanarulFB">sanarulislam.me@gmail.com</string>
+
+    <string name="nadirN">Nadir Al Mamun(49)</string>
+    <string name="nadirCo">+8801942599364</string>
+    <string name="nadir">
+        E-mail: nadiralmamun@gmail.com
+        \nHome District: Munshiganj </string>
+    <string name="nadirFB">www.facebook.com/nadir.mamun</string>
+
+    <string name="zonyN">Dewan Zony(51)</string>
+    <string name="zonyCo">+8801758116867</string>
+    <string name="zony">
+        E-mail:
+        \nHome District: Naogaon. </string>
+    <string name="zonyFB">www.facebook.com/dewanrayeef</string>
+
+
+    <string name="mahbuburSirN_details">Professor Dr. A.T.M Mahbubur Rahman </string>
+    <string name="mahbuburSirCo">+8801720-557279</string>
+
+    <string name="basedSirN_details">Assoc. Prof. Md. Abdul Based </string>
+    <string name="basedSirCo">+8801716-505902</string>
+
+    <string name="jhanaraSirN_details">Assoc. Prof. Mst.Jahanara Akhtar </string>
+    <string name="jhanaraSirCo">+8801715-180979</string>
+
+    <string name="anisur_rahmanSirN_details">Asst. Prof. Md. Anisur Rahman Pramanik </string>
+    <string name="anisur_rahmanSirCo">+8801920-033252</string>
+
+    <string name="belaliSirN_details">Asst. Prof. Md. Habibullah Belali </string>
+    <string name="belaliSirCo">+8801913-792111</string>
+
+    <string name="tahzibSirN_details">Asst. Prof. Md. Tahzib UL Islam </string>
+    <string name="tahzibSirCo">+8801717-041584</string>
+
+    <string name="saraboniSirN_details">Asst. Prof. Ms. Saraboni Borua </string>
+    <string name="saraboniSirCo">+8801683-180384</string>
+
+    <string name="solaimanSirN_details">Asst. Prof. Md. Solaiman Mia  </string>
+    <string name="solaimanSirCo">+8801976-524626</string>
+
+    <string name="saifuzzamanSirN_details">Asst. Prof. Md. Saifuzzaman  </string>
+    <string name="saifuzzamanSirCo">+8801912-15790</string>
+
+    <string name="samratSirN_details">Mr. Samrat Kumar Dey  </string>
+    <string name="samratSirCo">+8801823-267937</string>
+
+    <string name="tuhinSirN_details">Md. Mahmudul Hasan Tuhin  </string>
+    <string name="tuhinSirCo">+8801739-966934</string>
+
+    <string name="kawsarSirN_details">Md. Kawsar Ahmed  </string>
+    <string name="kawsarSirCo">+8801757-074820</string>
+
+    <string name="ashrafulSirN_details"> Md. Ashraful Islam  </string>
+    <string name="ashrafulSirCo"> +8801776-019109</string>
+
+    <string name="al_imranSirN_details"> Md. Al Imran  </string>
+    <string name="al_imranSirCo"> +8801710-242332</string>
+
+    <string name="riazSirN_details"> Md. Riaz Uddin  </string>
+    <string name="riazSirCo"> +8801675-909668</string>
+
+    <string name="zahidul_islamSirN_details"> Md. Zahidul Islam  </string>
+    <string name="zahidul_islamSirCo"> +8801724-240332</string>
+
+    <string name="firozSirN_details"> Md. Firoz Sarker  </string>
+    <string name="firozSirCo"> +8801734-088868</string>
+
+    <string name="arpitaSirN_details"> Ms. Arpita Howlader  </string>
+    <string name="arpitaSirCo"> +8801833-760618 </string>
+
+    <string name="sumanSirN_details"> Mr. Suman Mazumder  </string>
+    <string name="sumanSirCo"> +8801721-132051 </string>
+
+    <string name="sharifulSirN_details"> Md. Shariful Islam  </string>
+    <string name="sharifulSirCo"> +8801747-612143 </string>
+
+    <string name="fahimSirN_details"> Md. SK Fahim Abrar  </string>
+    <string name="fahimSirCo"> +8801828-541244 </string>
+
+    <string name="shiblySirN_details"> Md. Shibly Sadique  </string>
+    <string name="shiblySirCo"> +8801716-865751 </string>
+
+    <string name="tonmoySirN_details"> Md. Ashfaqul Islam Tonmoy  </string>
+    <string name="tonmoySirCo"> +8801515-600336 </string>
+
+    <string name="shafiur_rahmanSirN_details"> Md. Shafiur Rahman  </string>
+    <string name="shafiur_rahmanSirCo"> +8801723-506770 </string>
+
+    <string name="mahbubur_rahmanSirN_details"> Md. Mahbubur Rahman  </string>
+    <string name="mahbubur_rahmanSirCo"> +8801521-238777 </string>
+
+    <string name="khandakar_Mohammad_MohiuddinSirN_details"> Md. Khandakar Mohammad Mohiuddin  </string>
+    <string name="khandakar_Mohammad_MohiuddinSirCo"> +8801520-102813 </string>
+
+    <string name="ibrahimSirN_details"> Md.Ibrahim Khalil  </string>
+    <string name="ibrahimSirCo"> +8801813-853689 </string>
+
+
+    <string-array name="headingName">
+        <item>DIU Website</item>
+        <item>CSE-E-57th batch DIU</item>
+        <item>FRIENDS FOREVER (DIU-E-57)</item>
+        <item>DIU_CSE Activities</item>
+        <item>DIUCSE English Practice Club</item>
+        <item>DIU English Language Club</item>
+        <item>Dept of CSE, DIU</item>
+        <item>DIU STUDENT s UNITY</item>
+        <item>Dhaka International University (DIU)</item>
+        <item>DIU E-Library (CSE)</item>
+        <item>Department of CSE,DIU</item>
+        <item>Career and Placement Club-CPC of DIU</item>
+    </string-array>
+
+    <string-array name="heading_Link">
+        <item>http://diu.ac</item>
+        <item>www.facebook.com/groups/1726081097652166</item>
+        <item>www.facebook.com/groups/1405784649566744</item>
+        <item>www.facebook.com/groups/172311480124017</item>
+        <item>www.facebook.com/groups/1908231045909764</item>
+        <item>www.facebook.com/groups/DIUELC/?ref=br_rs</item>
+        <item>www.facebook.com/groups/1726307134294635</item>
+        <item>www.facebook.com/groups/430171044119670</item>
+        <item>www.facebook.com/groups/DIUofficial/?ref=bookmarks</item>
+        <item>www.facebook.com/groups/bookself.diu</item>
+        <item>www.facebook.com/groups/1726307134294635</item>
+        <item>www.facebook.com/groups/180571232750302</item>
+    </string-array>
+
+    <string-array name="news_Name">
+        <item>The Daily Star</item>
+        <item>Prothomalo</item>
+        <item>Amardesh</item>
+        <item>Ittefaq</item>
+        <item>Nayadiganta</item>
+        <item>BBC Bangla</item>
+        <item>Bangladesh Protidin</item>
+        <item>Kalerkantho</item>
+        <item>Janakantha</item>
+        <item>Jugantor</item>
+        <item>Samakal</item>
+        <item>Inqilab</item>
+        <item>Dinkal</item>
+        <item>Bdnews24</item>
+        <item>Mzamin</item>
+    </string-array>
+
+    <string-array name="news_Link_Name">
+        <item>www.thedailystar.net</item>
+        <item>www.prothomalo.com</item>
+        <item>amar-desh24.com/bangla/</item>
+        <item>www.ittefaq.com.bd/</item>
+        <item>www.dailynayadiganta.com/</item>
+        <item>www.bbc.com/bengali</item>
+        <item>www.bd-pratidin.com/</item>
+        <item>www.kalerkantho.com</item>
+        <item>www.dailyjanakantha.com/</item>
+        <item>www.jugantor.com/</item>
+        <item>samakal.com/</item>
+        <item>www.dailyinqilab.com/</item>
+        <item>www.dailydinkal.net/2018/10/09/index.php</item>
+        <item>bangla.bdnews24.com/</item>
+        <item>mzamin.com/</item>
+    </string-array>
+
+
+    <string name="title_activity_course_outline">CourseOutline</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tab__course__outline">Tab_Course_Outline</string>
+    <string name="title_activity_tab__course">Tab_Course</string>
+
+
+    <string name="tab_text_1">1</string>
+    <string name="tab_text_2">2</string>
+    <string name="tab_text_3">3</string>
+    <string name="tab_text_4">->>></string>
+
+</resources>

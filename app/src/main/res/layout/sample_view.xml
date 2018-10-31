@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:weightSum="4"
+    android:background="#a0c5cf"
+    android:padding="5dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:background="@drawable/list_view_shape">
+
+        <ImageView
+            android:id="@+id/imageViewId"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/diu_logo1"/>
+
+        <LinearLayout
+            android:layout_weight="3"
+            android:layout_width="0dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_NameId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DIU"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:textColor="#ffffff"
+                android:layout_marginBottom="5dp"/>
+
+            <TextView
+                android:id="@+id/text_LinkId"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="click hear the link"
+                android:autoLink="web"
+                android:textColorLink="#0a1ef9"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:gravity="center"
+                 />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

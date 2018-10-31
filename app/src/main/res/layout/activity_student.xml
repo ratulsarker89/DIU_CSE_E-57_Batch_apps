@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    android:padding="5dp"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".Student">
+
+    <LinearLayout
+        android:layout_weight="1.75"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <FrameLayout
+            android:id="@+id/fragmentId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#54747e">
+        </FrameLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#2018f7"/>
+
+    <LinearLayout
+        android:layout_weight="1.25"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+
+        <ListView
+            android:dividerHeight="1dp"
+            android:divider="#fff"
+            android:id="@+id/listViewId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:listSelector="#e79f2c"
+            android:background="#a9c0d2">
+
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="6dp"
+    android:orientation="vertical"
+    android:background="#e6e7e9"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/news_list_view_shape"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:id="@+id/newsImageViewId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/thedailystar_1" />
+
+        <TextView
+            android:id="@+id/news_Name_TextViewid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Newspaper"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/news_Link_Name_TextViewid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Newspaper Link"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:gravity="center"
+            android:autoLink="web"
+            android:textColorLink="#030ffd"/>
+    </LinearLayout>
+
+</LinearLayout>
